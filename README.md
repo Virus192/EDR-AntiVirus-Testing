@@ -1,4 +1,4 @@
-# Cybersecurity Project
+# EDR and Anti-Virus Security Control Testing
 
 ## Project Title: Assessment Design for Security Controls
 
